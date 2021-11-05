@@ -1,1 +1,1 @@
-index.txt 1
+index.txt
